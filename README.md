@@ -1,2 +1,2 @@
-# crypto-ytt-starter
+# MCDT
 Klaytn ERC721 BApp
