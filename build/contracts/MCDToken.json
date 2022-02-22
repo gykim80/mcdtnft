@@ -3719,6 +3719,12 @@
       "address": "0x7FB7292C20345dBA3Fd9f8be229c8951797972cd",
       "transactionHash": "0xfd1bd93af8459b33e656fa5477f3eb7b21df4737fe156c5ef141fa3926962dc9"
     },
+    "8217": {
+      "events": {},
+      "links": {},
+      "address": "0xEb188458350C5305ae1be30206b51535D35b72a4",
+      "transactionHash": "0xf6092636cbeeb0d6d465fdbbe047bcbc1aa6ac7aff61edf3f264e60b7088acc7"
+    },
     "1644834651256": {
       "events": {},
       "links": {},
@@ -3769,7 +3775,7 @@
     }
   },
   "schemaVersion": "3.0.0",
-  "updatedAt": "2022-02-21T02:54:11.663Z",
+  "updatedAt": "2022-02-21T23:54:43.912Z",
   "devdoc": {
     "methods": {
       "approve(address,uint256)": {
